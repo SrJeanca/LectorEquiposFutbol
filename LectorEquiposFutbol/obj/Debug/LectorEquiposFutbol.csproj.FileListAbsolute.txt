@@ -1,0 +1,9 @@
+c:\users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\bin\Debug\LectorEquiposFutbol.exe.config
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\bin\Debug\LectorEquiposFutbol.exe
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\bin\Debug\LectorEquiposFutbol.pdb
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.Properties.Resources.resources
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.csproj.GenerateResource.Cache
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.exe
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.pdb
+C:\Users\jeanc\documents\visual studio 2015\Projects\LectorEquiposFutbol\LectorEquiposFutbol\obj\Debug\LectorEquiposFutbol.Formu_Equipos.resources
